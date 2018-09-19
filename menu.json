@@ -1,0 +1,181 @@
+[{
+        "id": "2",
+        "kategori": "tacos",
+        "navn": "Pork Carnitas",
+        "pris": 50,
+        "beskrivelse": "Braised pork belly, pasilla salsa, onion, cilantro",
+        "billede": "Carnitas-sm",
+        "": ""
+    },
+    {
+        "id": "4",
+        "kategori": "tacos",
+        "navn": "Huevo Ranchero",
+        "pris": 50,
+        "beskrivelse": "Fried egg, casera salsa, pork cracklings, onion, cilantro",
+        "billede": "Friedegg-sm",
+        "": ""
+    },
+    {
+        "id": "6",
+        "kategori": "tacos",
+        "navn": "Lengua",
+        "pris": 50,
+        "beskrivelse": "Beef tongue with guacachile, onion, cilantro",
+        "billede": "Lengua-sm",
+        "": ""
+    },
+    {
+        "id": "8",
+        "kategori": "tacos",
+        "navn": "Mole",
+        "pris": 50,
+        "beskrivelse": "Roasted chicken, mole negro, crema, sesame seeds",
+        "billede": "mole-sm",
+        "": ""
+    },
+    {
+        "id": "10",
+        "kategori": "tacos",
+        "navn": "Queso Fresco",
+        "pris": 50,
+        "beskrivelse": "Fresh cheese, guacachile, pickled red onions, cilantro",
+        "billede": "quesofresco-sm",
+        "": ""
+    },
+    {
+        "id": "12",
+        "kategori": "tacos",
+        "navn": "Al Pastor",
+        "pris": 50,
+        "beskrivelse": "Spit roasted marinated pork with pineapple, onion, cilantro",
+        "billede": "Pastor-sm",
+        "": ""
+    },
+    {
+        "id": "14",
+        "kategori": "tacos",
+        "navn": "Fried Fish",
+        "pris": 50,
+        "beskrivelse": "Fish of the day, red cabbage, guacachile, crema, chile de arbol oil, onion, cilantro",
+        "billede": "fish-sm",
+        "": ""
+    },
+    {
+        "id": "16",
+        "kategori": "tacos",
+        "navn": "Grilled Cheese",
+        "pris": 50,
+        "beskrivelse": "2 month aged cow's cheese, guacachile, salsa morita, avocado, onion, cilantro",
+        "billede": "grilledcheese-sm",
+        "": ""
+    },
+    {
+        "id": "18",
+        "kategori": "tacos",
+        "navn": "El Paul",
+        "pris": 50,
+        "beskrivelse": "Crispy fish skin, gooseberry salsa, onion, cilantro, avocado",
+        "billede": "el_paul-sm",
+        "": ""
+    },
+    {
+        "id": "20",
+        "kategori": "sides",
+        "navn": "Quesadilla",
+        "pris": 75,
+        "beskrivelse": "3 corn tortillas filled with two month aged cow's cheese, side of morita salsa",
+        "billede": "Qesadillios-sm",
+        "": ""
+    },
+    {
+        "id": "24",
+        "kategori": "sides",
+        "navn": "Coconut",
+        "pris": 50,
+        "beskrivelse": "Coconut milk, milk, cream, coconut flakes, candied cacao nibs",
+        "billede": "coconut-sm",
+        "": ""
+    },
+    {
+        "id": "26",
+        "kategori": "sides",
+        "navn": "Avocado",
+        "pris": 50,
+        "beskrivelse": "Avocado, cajeta, freeze dried raspberries",
+        "billede": "Avocado-sm",
+        "": ""
+    },
+    {
+        "id": "28",
+        "kategori": "sides",
+        "navn": "Tres Leches",
+        "pris": 50,
+        "beskrivelse": "Sponge cake, sweetened condensed milk, cream, coconut milk",
+        "billede": "Tres_leche-sm",
+        "": ""
+    },
+    {
+        "id": "30",
+        "kategori": "sides",
+        "navn": "Tepache",
+        "pris": 50,
+        "beskrivelse": "Hibiscus tea, chili powder (also available with Mezcal)",
+        "billede": "tepache-sm",
+        "": ""
+    },
+    {
+        "id": "34",
+        "kategori": "sides",
+        "navn": "Gooseberry salsa",
+        "pris": 30,
+        "beskrivelse": "Gooseberry, avocado, onion, coriander, jalapeno, lemon, oil",
+        "billede": "Salsa-sm",
+        "": ""
+    },
+    {
+        "id": "36",
+        "kategori": "sides",
+        "navn": "Chips",
+        "pris": 45,
+        "beskrivelse": "Crispy corn tortillas - homemade from our own masa, served with gooseberry-avocado salsa",
+        "billede": "Chips_sides-sm",
+        "": ""
+    },
+    {
+        "id": "38",
+        "kategori": "drinks",
+        "navn": "Michelada",
+        "pris": 55,
+        "beskrivelse": "Valentina Salsa, tahin, Worchester sauce, lime juice, worm salt, Mexican beer",
+        "billede": "michelada-sm",
+        "": ""
+    },
+    {
+        "id": "40",
+        "kategori": "drinks",
+        "navn": "Iced-Tepache",
+        "pris": 55,
+        "beskrivelse": "Fermented pineapple drink on ice",
+        "billede": "tepache_drink-sm",
+        "": ""
+    },
+    {
+        "id": "42",
+        "kategori": "drinks",
+        "navn": "Limonade",
+        "pris": 55,
+        "beskrivelse": "Lemon and lime juice",
+        "billede": "limonade-sm",
+        "": ""
+    },
+    {
+        "id": "44",
+        "kategori": "drinks",
+        "navn": "Hibiscus Tea",
+        "pris": 55,
+        "beskrivelse": "Sweet hibiscus tea",
+        "billede": "hibiscus-tea-sm",
+        "": ""
+    }
+]
